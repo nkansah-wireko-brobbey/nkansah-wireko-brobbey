@@ -41,5 +41,12 @@ contributing effectively in Agile teams.
 ### 📊 Stats
 
 ![Nkansah Github Stats](https://github-readme-stats.vercel.app/api?username=nkansah-wireko-brobbey&show_icons=true&theme=radical) -->
+</br>
+
+<div align=center>
+ <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=nkansah-wireko-brobbey&label=Profile%20Views&color=0&icon=6&pretty=true" />
+</a>
+</div> 
 
 [website]: https://my-portfolio-two-woad-49.vercel.app
