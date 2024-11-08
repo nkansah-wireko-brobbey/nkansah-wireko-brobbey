@@ -34,9 +34,9 @@ contributing effectively in Agile teams.
 #
 <p align="center">
   <!--- stats (start) -->
-  <table align="center">
+  <table align="center" border="0">
   <tr border="0">
-  <td align="center">
+  <td align="center" border="0">
     
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nkansah-wireko-brobbey&show_icons=true&theme=radical" />
   </td>
