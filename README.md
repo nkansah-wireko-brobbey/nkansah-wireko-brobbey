@@ -1,6 +1,6 @@
 <h1 align="center"> 🔭 Hey 👋, I'm Nkansah Wireko-Brobbey</h1>
 
-<h3 align="center">Software Engineer with a Focus on Frontend Engineer and UI/UX</h3>
+<h3 align="center">Software Engineer - A digital craftsman</h3>
 
 Results-driven Front-End Engineer with 5+ years of experience in building responsive, user-friendly web applications.
 Profcient in Angular, React.js, NextJs, Node.js, Java and AI (RAG), with strong skills in full-stack development. Expertise in
